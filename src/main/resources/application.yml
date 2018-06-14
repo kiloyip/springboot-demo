@@ -1,0 +1,7 @@
+server:
+  port: 8080
+  
+person:
+  lastName: kilo
+  age: 18
+  boss: false
